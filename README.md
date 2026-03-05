@@ -9,9 +9,9 @@
 - add both in the env file
 
 #run the following command to store embeddings in pinecone
-python store_index.py
+- python store_index.py
 
 #run this command to run and start the whole project
-python app.py
+- python app.py
 
 #then search localhost:"your_port_number"
