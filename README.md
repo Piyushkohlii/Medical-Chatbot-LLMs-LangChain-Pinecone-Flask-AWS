@@ -1,3 +1,6 @@
+#clone this repository by running this command
+- git clone https://github.com/Piyushkohlii/Medical-Chatbot-LLMs-LangChain-Pinecone-Flask-AWS.git
+
 #project setup
 - installing python 3.10 for the requirements.txt
 - creating virtual environment variable (venv) with the python version 3.10
