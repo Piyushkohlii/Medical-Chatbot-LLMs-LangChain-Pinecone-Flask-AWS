@@ -4,11 +4,14 @@
 - activating it
 - then pip install -r requirements.text
 
-# starting with trials.ipynb
-- starting kernel 
-- seting up environment path and downloading the recommendatiing recomendation by vs code 
-- run the download embedding function
-- setup account in pinecone and create api key
-- create apikey in openai
+#generate api key of pinecone and chatgroq
+- setup account in pinecone and chatgroq and create api key
 - add both in the env file
- 
+
+#run the following command to store embeddings in pinecone
+python store_index.py
+
+#run this command to run and start the whole project
+python app.py
+
+#then search localhost:"your_port_number"
